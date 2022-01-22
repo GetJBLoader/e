@@ -1,0 +1,57 @@
+game.StarterGui:SetCore(
+            "ChatMakeSystemMessage",
+            {
+                Text = "Starting.. (1/5)",
+                Color = Color3.new(0, 0.2, 0.2)
+            }
+        )
+
+wait(1)
+
+game.StarterGui:SetCore(
+    "ChatMakeSystemMessage",
+    {
+        Text = "Starting.. (2/5)",
+        Color = Color3.new(0, 0.4, 0.4)
+    }
+)
+
+wait(1)
+
+game.StarterGui:SetCore(
+            "ChatMakeSystemMessage",
+            {
+                Text = "Starting.. (3/5)",
+                Color = Color3.new(0, 0.6, 0.6)
+            }
+        )
+
+wait(1)
+
+game.StarterGui:SetCore(
+            "ChatMakeSystemMessage",
+            {
+                Text = "Starting.. (4/5)",
+                Color = Color3.new(0, 0.75, 0.75)
+            }
+        )
+
+wait(1)
+
+game.StarterGui:SetCore(
+    "ChatMakeSystemMessage",
+    {
+        Text = "Starting.. (5/5)",
+        Color = Color3.new(0, 1, 1)
+    }
+)
+
+wait(1)
+
+game.StarterGui:SetCore(
+    "ChatMakeSystemMessage",
+    {
+        Text = "Jailbreak loader has started!",
+        Color = Color3.new(0, 1, 1)
+    }
+)
