@@ -1,3 +1,5 @@
+
+wait(4)
 game.StarterGui:SetCore(
             "ChatMakeSystemMessage",
             {
